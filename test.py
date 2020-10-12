@@ -20,3 +20,7 @@ root = Root()
 root.mainloop()
 
 print("hello world")
+
+
+def say(name):
+    print("Your name is ", name)
